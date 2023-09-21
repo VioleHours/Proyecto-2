@@ -1,6 +1,6 @@
 # Age Calculator App
 
-[Preview](preview.png)
+![Preview](preview.png)
 
 ## Descripción
 La Age Calculator App es una aplicación web simple que te permite calcular la edad en años, meses y días a partir de una fecha de nacimiento proporcionada. Es una herramienta útil para saber cuánto tiempo ha transcurrido desde un evento importante o para planificar celebraciones.
@@ -27,7 +27,7 @@ La Age Calculator App es una aplicación web simple que te permite calcular la e
 
 ## Captura de Pantalla
 
-[Captura de Pantalla 1](preview1.png)
+![Captura de Pantalla 1](preview1.png)
 
 ## Contribución
 
