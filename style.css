@@ -1,0 +1,83 @@
+@font-face {
+  font-family: Pop;
+  src: url(./assets/fonts/Poppins-Regular.ttf);
+}
+
+* {
+  font-family: Pop !important;
+}
+
+body {
+  background-color: rgb(205, 205, 205);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: rgb(47, 47, 47);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+  width: 80vw;
+  height: 80vh;
+  border-radius: 7px;
+  box-shadow: 10px 10px 5px #40046cb3;
+}
+
+input {
+    font-size: large;
+    width: 12vw;
+    border-radius: 7px;
+}
+
+.input-container {
+    display: flex;
+    justify-content: flex-end;
+    font-size: x-large;
+    margin-top: .5rem;
+}
+
+.submit-btn {
+    display: flex;
+    margin-top: .5rem;
+    font-size: large;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+small {
+    color: red;
+    font-size: .6rem;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+span.output-year {
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+span.output-month {
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+span.output-day {
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+h1 {
+    font-size: x-large;
+}
